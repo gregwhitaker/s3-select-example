@@ -1,4 +1,5 @@
 # s3-select-example
+An example of querying a CSV document, stored in Amazon S3, using SQL with S3 Select.
 
 ## License
 MIT License
